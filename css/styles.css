@@ -399,7 +399,7 @@ margin-bottom: 32px;
     position: relative;
 }
 
-.prodacts-item-wrap:hover .prodacts-wrap-text {
+.prodacts-item:hover .prodacts-wrap-text {
     transform: translateY(0%);
 }
 
